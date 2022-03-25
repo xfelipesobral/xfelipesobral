@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on [SoftRos](https://www.linkedin.com/company/softros-informatica/)
 - 🌱 Learning NodeJS, ReactJS, React Native, Typescript, Genexus and Cloud
-- 📫 How to reach me: [contato@felipesobral.com](mailto:contato@felipesobral.com)
+- 📫 How to reach me: [xfelipesobral@gmail.com](mailto:xfelipesobral@gmail.com)
 - 📝 More: [https://felipesobral.com](https://felipesobral.com)
 
 </br>
